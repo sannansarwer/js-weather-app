@@ -6,4 +6,23 @@ body{
 .card{
     border-style: groove;
     border-radius: 10px;
+    max-width: 600px; /* Optional max width */
+    width: 90%;       /* Flexible width on mobile */
+    margin: 20px auto;
+}
+
+@media (max-width: 576px) {
+    body {
+        margin: 20px; /* instead of 100px */
+    }
+}
+
+@media (max-width: 576px) {
+    .p-5 {
+        padding: 15px !important;
+    }
+
+#suggestions {
+    width: 100%; /* ensures it fits the parent input */
+}    
 }
