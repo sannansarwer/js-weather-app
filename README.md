@@ -2,7 +2,7 @@
 
 SkyCast is a modern, responsive weather forecast web application built with HTML, CSS, JavaScript, and Bootstrap 5. It fetches real-time weather data and displays daily and weekly forecasts, along with current temperature, humidity, and wind speed for any city worldwide.
 
-## 🌐 Live Demo # 
+## 🌐 Live Demo # https://sannansarwer.github.io/js-weather-app/
 
 ## 📌 Features
 - Current Weather : Displays temperature, humidity, and wind speed for a selected city.
